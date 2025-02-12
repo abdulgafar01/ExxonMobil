@@ -272,7 +272,7 @@ nav:hover .nav__utilities .global{
   
 }
 
-.play-btn span:nth-child(1) {
+.play-btn span:nth-child(2) {
   display: none; /* show pause by default */
 }
 
